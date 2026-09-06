@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+#Enteries by Richard
+game_state.jsonl
