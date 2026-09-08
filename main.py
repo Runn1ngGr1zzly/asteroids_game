@@ -18,6 +18,7 @@ def main():
     while True:
         log_state()
         screen.fill("black")
+        player.update(dt)
         player.draw(screen)
         pygame.display.flip()
         for event in pygame.event.get():
