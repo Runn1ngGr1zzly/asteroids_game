@@ -11,3 +11,4 @@ wheels/
 
 #Enteries by Richard
 game_state.jsonl
+game_events.jsonl
